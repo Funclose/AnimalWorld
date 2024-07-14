@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\bin\Debug\net8.0\AnimalWorld.exe
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\bin\Debug\net8.0\AnimalWorld.deps.json
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\bin\Debug\net8.0\AnimalWorld.runtimeconfig.json
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\bin\Debug\net8.0\AnimalWorld.dll
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\bin\Debug\net8.0\AnimalWorld.pdb
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\AnimalWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\AnimalWorld.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\AnimalWorld.AssemblyInfo.cs
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\AnimalWorld.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\AnimalWorld.dll
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\refint\AnimalWorld.dll
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\AnimalWorld.pdb
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\AnimalWorld.genruntimeconfig.cache
+C:\Users\Artem\source\repos\For_ALL_HW\AnimalWorld\obj\Debug\net8.0\ref\AnimalWorld.dll
